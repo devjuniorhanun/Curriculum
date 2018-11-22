@@ -26,6 +26,7 @@
 * Html5
 * Css
 * Css3
+* Bootstrap
 
 ### Back End
 
