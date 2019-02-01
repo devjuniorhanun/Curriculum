@@ -1,8 +1,8 @@
 # Winston Hanun Júnior
 
 * Endereço.: Rua Goias nº180 - Centro - Morrinhos - Goias  
-* Telefone.: (64)98408-9783
-* Zap.:      (64)98408-9783  
+* Telefone.: (64)98457-7174
+* Zap.:      (64)98457-7174  
 * Email.: <devjuniorhanun@gmail.com>  
 * Skype.: <devjuniorhanun@gmail.com>  
 
@@ -22,13 +22,11 @@
 ### Métodos Ágeis.
 
 ### Front End
-* Html
-* Html5
-* Css
-* Css3
-* Bootstrap
+* Html -> Html, Html5
+* Css -> Css, Css3
+* Bootstrap.*
 * Flexbox
-
+* JavaScript -> JavaScript, JavaScript Poo,
 ### Back End
 
 ### Banco de Dados
