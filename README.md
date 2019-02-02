@@ -26,7 +26,7 @@
 * Css -> Css, Css3
 * Bootstrap.*
 * Flexbox
-* JavaScript -> JavaScript, JavaScript Poo,
+* JavaScript -> JavaScript, JavaScript Poo, Es5, Es6
 ### Back End
 
 ### Banco de Dados
