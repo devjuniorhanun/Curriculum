@@ -19,7 +19,8 @@
 * GitHub.
 * Git Flow.
 
-### Métodos Ágeis.
+### Agilidade e Gestão
+* Lean Startup
 
 ### Front End
 * Html -> Html, Html5
