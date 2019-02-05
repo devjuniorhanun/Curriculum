@@ -27,9 +27,14 @@
 * Css -> Css, Css3
 * Bootstrap.*
 * Flexbox
-* JavaScript -> JavaScript, JavaScript Poo, Es5, Es6
-### Back End
+* JavaScript -> JavaScript, JavaScript Poo, Es5, Es6, React, TypeScript
 
+### Gerenciador de Pacote JavaScript
+* Npm
+* Yarn
+
+### Back End
+* NodeJs
 ### Banco de Dados
 
 ### Cms - Sistema de gerenciamento de conteúdo
@@ -43,3 +48,18 @@
 * Desenvolvedor Web Sisdeve
 
 ### Trabalhos
+* https://github.com/devjuniorhanun/MiniCloneTweets -> Em Desenvolvimento
+* http://www.acamargo.com
+* http://www.aparafusolandia.com.br
+* http://www.californiamotos.com.br
+* http://www.casasenador.com.br
+* http://www.cursojuris.com.br Versao1
+* http://www.fatriargamassas.com.br
+* http://www.sete.eng.br
+* http://www.faculdadepadrao.com.br
+* http://www.georgemorais.com.br
+* http://www.gatocolado.com.br
+* http://www.cjencomendas.com.br
+* http://www.vetlinego.com.br
+* http://www.mrmotos.com.br
+* http://www.nutrial-go.com.br
