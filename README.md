@@ -49,6 +49,7 @@
 
 ### Trabalhos
 * https://github.com/devjuniorhanun/MiniCloneTweets -> Em Desenvolvimento
+* https://github.com/devjuniorhanun/FrontEndMicroTweet -> Em Desenvolvimento
 * http://www.acamargo.com
 * http://www.aparafusolandia.com.br
 * http://www.californiamotos.com.br
