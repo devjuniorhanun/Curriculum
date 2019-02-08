@@ -24,10 +24,14 @@
 
 ### Front End
 * Html -> Html, Html5
-* Css -> Css, Css3
+* Css -> Css, Css3, Sass
 * Bootstrap.*
 * Flexbox
-* JavaScript -> JavaScript, JavaScript Poo, Es5, Es6, React, TypeScript
+* JavaScript -> JavaScript, JavaScript Poo, Es5, Es6, React, TypeScript, Vue
+
+### FrameWork Mobile.
+* React Native.
+* Quasar
 
 ### Gerenciador de Pacote JavaScript
 * Npm
@@ -35,7 +39,11 @@
 
 ### Back End
 * NodeJs
+* Laravel
+
 ### Banco de Dados
+* Sql -> MySql, MariaDb, PostGreSql.
+* NoSql -> MongoDB.
 
 ### Cms - Sistema de gerenciamento de conteúdo
 
@@ -48,8 +56,7 @@
 * Desenvolvedor Web Sisdeve
 
 ### Trabalhos
-* https://github.com/devjuniorhanun/MiniCloneTweets -> Em Desenvolvimento
-* https://github.com/devjuniorhanun/FrontEndMicroTweet -> Em Desenvolvimento
+* https://github.com/devjuniorhanun/MicroAppTweet -> Em Desenvolvimento
 * http://www.acamargo.com
 * http://www.aparafusolandia.com.br
 * http://www.californiamotos.com.br
