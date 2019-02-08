@@ -11,7 +11,7 @@
 * Linux e Aplicativos linux na Uni Anhangüera.
 * Logica de Programação Senac Goiânia
 * Delphi 2007 com SqlServer Senac Goiânia.
-* 1º Periodo Tecnologo em Sistemas de Computação pela Fundação CECIRRJ
+* 1º Período Tecnologo em Sistemas de Computação pela Fundação CECIRRJ
 
 ### Gerenciamento de Versão:
 
@@ -22,12 +22,17 @@
 ### Agilidade e Gestão
 * Lean Startup
 
+### Sistemas Operacionais
+* Windows
+* Linux
+
 ### Front End
 * Html -> Html, Html5
 * Css -> Css, Css3, Sass
 * Bootstrap.*
 * Flexbox
 * JavaScript -> JavaScript, JavaScript Poo, Es5, Es6, React, TypeScript, Vue
+
 
 ### FrameWork Mobile.
 * React Native.
@@ -39,19 +44,26 @@
 
 ### Back End
 * NodeJs
-* Laravel
+* Php -> PhpOo, Mvc, 
+
+### FrameWork Back End.
+* Php -> ZendFrameWork, Laravel.
 
 ### Banco de Dados
-* Sql -> MySql, MariaDb, PostGreSql.
+* Sql -> MySql, MariaDb, PostGreSql, Sqlite.
 * NoSql -> MongoDB.
+
+### Orm
+* Php -> Doctrine, Eloquent
+* Node -> Mongoose
 
 ### Cms - Sistema de gerenciamento de conteúdo
 
 ### Experiência
 * Desenvolvedor Web Php Media Virtual 
-* Suporte Tecnico Jm Informatica (Automação Supermercado)
+* Suporte Têcnico Jm Informática (Automação Supermercado)
 * Desenvolvedor Web Php Triadz Comunicação Visual 
-* Suporte Tecnico Rezendes Sistemas (Automação Supermercado e Posto)
+* Suporte Têcnico Rezendes Sistemas (Automação Supermercado e Posto)
 * Desenvolvedor Web Php Raddar 
 * Desenvolvedor Web Sisdeve
 
