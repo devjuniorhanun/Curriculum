@@ -70,16 +70,10 @@
 ### Trabalhos
 * https://github.com/devjuniorhanun/MicroAppTweet -> Em Desenvolvimento
 * http://www.acamargo.com
-* http://www.aparafusolandia.com.br
 * http://www.californiamotos.com.br
 * http://www.casasenador.com.br
 * http://www.cursojuris.com.br Versao1
 * http://www.fatriargamassas.com.br
 * http://www.sete.eng.br
-* http://www.faculdadepadrao.com.br
-* http://www.georgemorais.com.br
-* http://www.gatocolado.com.br
-* http://www.cjencomendas.com.br
-* http://www.vetlinego.com.br
 * http://www.mrmotos.com.br
 * http://www.nutrial-go.com.br
