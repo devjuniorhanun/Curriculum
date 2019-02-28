@@ -31,12 +31,13 @@
 * Css -> Css, Css3, Sass
 * Bootstrap.*
 * Flexbox
-* JavaScript -> JavaScript, JavaScript Poo, Es5, Es6, React, TypeScript, Vue
+* JavaScript -> JavaScript, JavaScript Poo, Es5, Es6, React, TypeScript, Vue, Dart
 
 
 ### FrameWork Mobile.
 * React Native.
 * Quasar
+* Flutter
 
 ### Gerenciador de Pacote JavaScript
 * Npm
