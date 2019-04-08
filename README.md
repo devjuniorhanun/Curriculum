@@ -1,8 +1,8 @@
 # Winston Hanun Júnior																		
 
 * Endereço.: Rua Goias nº180 - Centro - Morrinhos – Goias.  
-* Telefone.: (64)98457-7174
-* Zap.:      (64)98457-7174  
+* Telefone.: (64)98456-5613
+* Zap.:      (64)98456-5613  
 * Email.: <devjuniorhanun@gmail.com>  
 * Skype.: <devjuniorhanun@gmail.com>  
 
@@ -48,7 +48,7 @@
 * Php -> PhpOo, Mvc.
 
 ### FrameWork Back End:																	
-* Php -> ZendFrameWork, Laravel.
+* Php -> ZendFrameWork, Laravel Tdd.
 
 ### Banco de Dados:																			
 * Sql -> MySql, MariaDb, PostGreSql, Sqlite.
@@ -68,11 +68,3 @@
 
 ### Trabalhos:																				
 * https://github.com/devjuniorhanun/ → Repositorio Git
-* http://www.acamargo.com
-* http://www.californiamotos.com.br
-* http://www.casasenador.com.br
-* http://www.cursojuris.com.br Versao1
-* http://www.fatriargamassas.com.br
-* http://www.sete.eng.br
-* http://www.mrmotos.com.br
-* http://www.nutrial-go.com.br
