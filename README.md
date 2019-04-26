@@ -1,15 +1,14 @@
 # Winston Hanun Júnior																		
 
 * Endereço.: Rua Goias nº180 - Centro - Morrinhos – Goias.  
-* Telefone.: (64)98456-5613
-* Zap.:      (64)98456-5613  
+* Telefone.: (64)98457-71741
+* Zap.:      (64)98457-71741  
 * Email.: <devjuniorhanun@gmail.com>  
 * Skype.: <devjuniorhanun@gmail.com>  
 
 ### Formação:																				
 
 * Linux e Aplicativos linux na Uni Anhangüera.
-* 1º Período Tecnologo em Sistemas de Computação pela Fundação CECIRRJ.
 
 ### Gerenciamento de Versão:																
 
@@ -68,3 +67,11 @@
 
 ### Trabalhos:																				
 * https://github.com/devjuniorhanun/ → Repositorio Git
+* https://www.acamargo.com/
+* http://www.californiamotos.com.br
+* http://www.casasenador.com.br
+* http://www.fatriargamassas.com.br
+* http://www.sete.eng.br
+* http://www.faculdadepadrao.com.br
+* http://www.mrmotos.com.br
+* http://www.nutrial-go.com.br
