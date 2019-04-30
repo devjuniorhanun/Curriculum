@@ -45,9 +45,11 @@
 ### Back End:																				
 * NodeJs.
 * Php -> PhpOo, Mvc.
+* C -> C, C#, Asp, .Net, DotNet.
 
 ### FrameWork Back End:																	
 * Php -> ZendFrameWork, Laravel Tdd.
+* .NET Core
 
 ### Banco de Dados:																			
 * Sql -> MySql, MariaDb, PostGreSql, Sqlite.
