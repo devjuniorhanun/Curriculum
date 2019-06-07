@@ -69,8 +69,7 @@
 
 ### Trabalhos:																				
 * https://github.com/devjuniorhanun/ → Repositorio Git
-* http://ancient-dawn-13744.herokuapp.com/home Em Desenvolvimento
-* http://rockety.club Em Desenvolvimento
+* http://app.bhvistoriapredial.com.br
 * https://www.acamargo.com/
 * http://www.californiamotos.com.br
 * http://www.casasenador.com.br
