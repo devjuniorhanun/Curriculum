@@ -1,8 +1,8 @@
 # Winston Hanun Júnior																		
 
 * Endereço.: Rua Goias nº180 - Centro - Morrinhos – Goias.  
-* Telefone.: (64)98457-71741
-* Zap.:      (64)98457-71741  
+* Telefone.: (64) 99245-1574
+* Zap.:      (64) 99245-1574  
 * Email.: <devjuniorhanun@gmail.com>  
 * Skype.: <devjuniorhanun@gmail.com>  
 
