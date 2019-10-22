@@ -1,6 +1,6 @@
 # Winston Hanun Júnior																		
 
-* Endereço.: Rua Goias nº180 - Centro - Morrinhos – Goias.  
+* Endereço.: Bom Jesus – Goias.  
 * Telefone.: (64) 99245-1574
 * Zap.:      (64) 99245-1574  
 * Email.: <devjuniorhanun@gmail.com>  
@@ -15,6 +15,8 @@
 * Git.
 * GitHub.
 * Git Flow.
+### Gerenciamento de Container:
+* Docker, Docker-compose
 
 ### Agilidade e Gestão:																		
 * Lean Startup.
