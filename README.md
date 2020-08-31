@@ -50,7 +50,7 @@
 * C -> C, C#, Asp, .Net, DotNet.
 
 ### FrameWork Back End:																	
-* Php -> ZendFrameWork, Laravel Tdd.
+* Php -> ZendFrameWork, Laravel.
 * .NET Core
 
 ### Banco de Dados:																			
@@ -63,11 +63,17 @@
 
 ### Experiência:																				
 * Desenvolvedor Web Php Media Virtual. 
-* Suporte Têcnico Jm Informática (Automação Supermercado).
-* Desenvolvedor Web Php Triadz Comunicação Visual. 
+**Atuava com Desenvolvedor Web ( Html, Css, JavaScritp, Php), Desenvolver pequenos projetos de frontpage**
+* Suporte Têcnico Jm Informática
+**Atuava com Help Desk (Automação Supermercado).**
+* Desenvolvedor Web Php Triadz Comunicação Visual.
+**Atuava com Desenvolvedor Web ( Html, Html5, Css, Css3, JavaScritp, Php, Zend), Desenvolver projetos Medio Porte, e Páginas do Governo**
 * Suporte Têcnico Rezendes Sistemas (Automação Supermercado e Posto).
+**Atuava com Help Desk (Automação Posto de Gasolina).**
 * Desenvolvedor Web Php Raddar. 
+**Atuava com Desenvolvedor Web ( Html, Html5, Css, Css3, JavaScritp, Php, Zend), Desenvolver projetos Institucionais, e Lojas Virtuais...*
 * Desenvolvedor Web Sisdeve.
+**Atuava com Desenvolvedor Web ( Html, Html5, Css, Css3, JavaScritp, Php, Laravel, Vue, Flutter), Desenvolver Sistema de Controle Agrícola...*
 
 ### Trabalhos:																				
 * https://github.com/devjuniorhanun/ → Repositorio Git
